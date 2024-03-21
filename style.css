@@ -1,7 +1,8 @@
+* {
+}
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(252, 252, 252);
   box-sizing: border-box;
   font-family: sans-serif;
 }
@@ -35,10 +36,6 @@ body {
 .text-banner-3 {
   background: linear-gradient(to bottom, #ffffff 60%, #ffffcc 100%);
 }
-/* .button-01 {
-  align-items: end;
-  margin-right: 120px;
-} */
 .button-01 {
   text-align: end;
   align-items: end;
@@ -59,18 +56,3 @@ body {
   top: 30px;
   z-index: 1;
 }
-/* .text-4 {
-  margin-top: 150px;
-  margin-left: -50px;
-  font-size: 100px;
-  font-weight: 100px;
-}
-.text-5 {
-  font-size: 30px;
-  margin-top: -40px;
-  margin-left: 190px;
-}
-.button-4 {
-  margin-left: 280px;
-  border-radius: 15px;
-} */
