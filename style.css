@@ -38,7 +38,37 @@ body {
   font-size: 18px;
   font-weight: bold;
 }
-/* .button-add {
-  padding-left: 50px;
-  text-align: center;
+.text-banner-3 {
+  background: linear-gradient(to bottom, #ffffff 60%, #ffffcc 100%);
+}
+/* .button-01 {
+  align-items: end;
+  margin-right: 120px;
+} */
+.button-01 {
+  text-align: end;
+  align-items: end;
+  justify-content: end;
+  margin-right: 120px;
+}
+.price-01 {
+  margin-right: 95px;
+}
+.watch {
+  margin-top: 200px;
+}
+/* .text-4 {
+  margin-top: 150px;
+  margin-left: -50px;
+  font-size: 100px;
+  font-weight: 100px;
+}
+.text-5 {
+  font-size: 30px;
+  margin-top: -40px;
+  margin-left: 190px;
+}
+.button-4 {
+  margin-left: 280px;
+  border-radius: 15px;
 } */
