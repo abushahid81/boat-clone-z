@@ -19,6 +19,10 @@
     position: relative;
     z-index: 1;
   }
+
+  .abu {
+    row-gap: 10px;
+  }
 }
 @media only screen and (min-width: 992px) {
   /* .button-01 {
