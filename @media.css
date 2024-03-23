@@ -21,7 +21,7 @@
   }
 
   .abu {
-    column-gap: 10px;
+    column-gap: 30px;
   }
 }
 @media only screen and (min-width: 992px) {
