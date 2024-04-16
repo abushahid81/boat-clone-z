@@ -4,7 +4,14 @@ body {
   box-sizing: border-box;
   font-family: sans-serif;
 }
-
+/* .card {
+  margin-left: 50px; 
+  margin-right: 50px;
+} */
+/* .sub-zero{
+  margin-left: 30px;
+  margin-right: 30px;
+} */
 .logo-boat {
   width: 150px;
   height: 80px;
@@ -53,4 +60,4 @@ body {
   z-index: 1;
 }
 
-/* Add to Card*/
+
