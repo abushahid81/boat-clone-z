@@ -19,14 +19,12 @@
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
+    margin-left: -35px;
   }
   .banner-button{
     margin-left: 80px;
   }
-  .border {
-    position: relative;
-    z-index: 1;
-  }
+  
  
   .best-seller{
     margin-left: 120px;
