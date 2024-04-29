@@ -1,6 +1,5 @@
-@media only screen and (min-width: 600px) {
+/* @media only screen and (min-width: 600px) {
   .button-01 {
-    /* text-align: center; */
     margin-left: 95px;
   }
   .text-change {
@@ -9,18 +8,17 @@
     font-size: 50px;
   }
   .text-change-2 {
-    /* text-align: center; */
     margin-left: -110px;
   }
   .price-01{
     margin-right: 40px;
   }
-  /* .banner-text{
+  .banner-text{
     margin-top: 50px;
     margin-bottom: 50px;
     
     margin-left: -35px;
-  } */
+  }
   .banner-button{
     margin-right: -90px;
   }
@@ -30,14 +28,14 @@
     margin-left: 120px;
   }
   .sub-zero{
-    margin-left: -100px;
+    margin-right: -500px;
     
   }
   .sts-text{
     margin-bottom: 250px;
   }
   
-} 
+}  */
 
 
 
