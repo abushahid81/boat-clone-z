@@ -15,12 +15,12 @@
   .price-01{
     margin-right: 40px;
   }
-  .banner-text{
+  /* .banner-text{
     margin-top: 50px;
     margin-bottom: 50px;
     
     margin-left: -35px;
-  }
+  } */
   .banner-button{
     margin-right: -90px;
   }
@@ -62,7 +62,7 @@
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
-    margin-left: -35px;
+    margin-left: 20px;
   }
   .banner-button{
     margin-left: 80px;
