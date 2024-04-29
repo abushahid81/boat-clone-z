@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
   .button-01 {
     /* text-align: center; */
     margin-left: 95px;
@@ -18,11 +18,11 @@
   .banner-text{
     margin-top: 50px;
     margin-bottom: 50px;
-    text-align: center;
+    
     margin-left: -35px;
   }
   .banner-button{
-    margin-left: 80px;
+    margin-right: -90px;
   }
   
  
@@ -30,67 +30,71 @@
     margin-left: 120px;
   }
   .sub-zero{
-    margin-top: 10px;
+    margin-left: -100px;
+    
   }
   .sts-text{
     margin-bottom: 250px;
   }
   
 } 
-@media only screen and (min-width: 768px) {
-  
-  .sub-zero{
-      padding-right: -50px;
-      padding-left: -50px;
+
+
+
+@media only screen and (max-width: 600px) {
+  .button-01 {
+    /* text-align: center; */
+    margin-left: 95px;
   }
-  /* .best-seller{
-    margin-left: 120px;
-  } */
-  /* .sub-zero{
-    margin-top: 10px;
-  } */
-  /* .sts-text{
-    margin-bottom: 250px;
-  } */
-} 
-
-
-
-/* @media (max-width: 768px) {
-  
-  .logo-boat {
-    width: 100px;
-    height: auto;
+  .text-change {
+    /* text-align: center; */
+    margin-left: 20px;
+    font-size: 50px;
   }
-}
-
-@media (max-width: 576px) {
-  
-  .head-banner .display-1,
-  .display-6 {
+  .text-change-2 {
+    /* text-align: center; */
+    margin-left: -150px;
+  }
+  .price-01{
+    margin-right: 30px;
+  }
+  .banner-text{
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-align: center;
+    margin-left: -35px;
   }
-
- 
-  .banner-button .btn {
-    width: 150px; 
+  .banner-button{
+    margin-left: 80px;
   }
-
   
-  .card {
-    width: 100%;
+  .best-seller{
+    margin-left: 120px;
+  }
+  .sub-zero{
+    
+    margin-left: -20px;
+  }
+  .sts-text{
+    margin-bottom: 250px;
   }
 }
 
-@media (max-width: 480px) {
-  
-  .img-fluid {
-    width: 100%; 
-    height: auto;
-  }
 
- 
-  
-}  */
+
+@media only screen and (min-width: 1200px) {
+  .sub-zero{
+    padding-left: 10px;
+    margin-left: -20px;
+  }
+  .banner-button{
+    margin-left: 100px;
+  }
+  .banner-text{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 95px;
+  }
+}
 
 
