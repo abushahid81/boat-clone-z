@@ -1,7 +1,7 @@
 @media only screen and (max-width: 600px) {
   .button-01 {
-    text-align: center;
-    margin-right: -15px;
+    /* text-align: center; */
+    margin-left: 95px;
   }
   .text-change {
     text-align: center;
@@ -9,7 +9,11 @@
     font-size: 50px;
   }
   .text-change-2 {
-    margin-right: 50px;
+    /* text-align: center; */
+    margin-left: -110px;
+  }
+  .price-01{
+    margin-right: 40px;
   }
   .banner-text{
     margin-top: 50px;
@@ -23,11 +27,7 @@
     position: relative;
     z-index: 1;
   }
-  .media-1 {
-    display: flex;
-    justify-content: center;
-    width: 100px;
-  }
+ 
   .best-seller{
     margin-left: 120px;
   }
@@ -39,11 +39,21 @@
   }
   
 } 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 768px) {
   
-  .banner-button{
-    margin-left: 80px;
+  .sub-zero{
+      padding-right: -50px;
+      padding-left: -50px;
   }
+  /* .best-seller{
+    margin-left: 120px;
+  } */
+  /* .sub-zero{
+    margin-top: 10px;
+  } */
+  /* .sts-text{
+    margin-bottom: 250px;
+  } */
 } 
 
 

@@ -4,14 +4,10 @@ body {
   box-sizing: border-box;
   font-family: sans-serif;
 }
-/* .card {
-  margin-left: 50px; 
-  margin-right: 50px;
-} */
-/* .sub-zero{
-  margin-left: 30px;
-  margin-right: 30px;
-} */
+.banner-text{
+  margin-top: 130px;
+  margin-left: 50px;
+}
 .logo-boat {
   width: 150px;
   height: 80px;
@@ -41,17 +37,20 @@ body {
 .text-banner-3 {
   background: linear-gradient(to bottom, #ffffff 60%, #ffffcc 100%);
 }
-.button-01 {
-  text-align: end;
-  align-items: end;
-  justify-content: end;
-  margin-right: 120px;
+.watch-3{
+  margin-left: 200px;
+}
+.button-01{
+  margin-left: 475px;
 }
 .banner-button {
-  margin-right: 635px;
+  margin-left: 50px;
 }
 .watch {
   margin-top: 200px;
+}
+.text-change-2{
+  margin-right: 100px;
 }
 
 .button-1 {
