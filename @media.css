@@ -73,9 +73,19 @@
     
     margin-left: -20px;
   }
+  .sub-one{
+    
+    margin-left: 35px;
+  }
   .sts-text{
     margin-bottom: 250px;
   }
+  .cato{
+    margin-left: -33px;
+    font-size: 15px;
+    font-weight: 750;
+    font-family: 'poppins', sans-serif;
+   }
 }
 
 
