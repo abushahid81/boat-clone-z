@@ -2,11 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'poppins',sans-serif;
 }
-body {
- 
-}
+
 .banner-text{
   margin-top: 130px;
   margin-left: 50px;
@@ -64,8 +62,19 @@ body {
   top: -15px;
   z-index: 1;
 }
-.icon-text{
-  
+.text-09{
+  font-size: 30px;
 }
+input{
+  padding: 10px 10px 10px 10px;
+}
+.whatapp{
+  position: absolute;
+  left: 1330px;
+  top: 1000;
+}
+/* .img-0900{
+  position: sticky;
+} */
 
 
